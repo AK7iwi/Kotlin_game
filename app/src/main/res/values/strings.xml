@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Projet_Info</string>
+    <string name="result_format">"C'est fini"</string>
+    <string name="reset_game">Recommencer</string>
+    <string name="BRAVO">Bravo</string>
+</resources>
+
