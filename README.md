@@ -1,2 +1,3 @@
-# Kotlin-Game
-Jeu en Kotlin
+# Kotlin Game
+
+BA2 informatic project
