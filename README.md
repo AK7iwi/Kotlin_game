@@ -1,3 +1,3 @@
 # Kotlin Game
 
-BA2 informatic project
+BA2 informatic project of EPB
